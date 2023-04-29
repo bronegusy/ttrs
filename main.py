@@ -1,2 +1,2 @@
 from pycbrf.toolbox import *
-print(ExchangeRates('2016-06-26'))
+print(rates['USD'])

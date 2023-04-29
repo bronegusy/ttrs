@@ -2,3 +2,4 @@ PYCBRF
 requests
 dbf_light
 click
+https://www.cyberforum.ru/python-tasks/thread2918103.html
