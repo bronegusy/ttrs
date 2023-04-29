@@ -1,1 +1,1 @@
-print('vologya')
+print('volodya')
